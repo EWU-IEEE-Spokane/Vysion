@@ -10,6 +10,8 @@ Welcome to Vysion's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   Getting Started <getting_started>
+   Project Updates <project_updates>
 
 
 Indices and tables
